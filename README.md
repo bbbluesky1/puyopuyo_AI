@@ -2,7 +2,6 @@
 https://qiita.com/gowasu/items/76c1bbe2bc01c4fe7a75
 30手番シミュレーションした結果
 <img src="https://user-images.githubusercontent.com/91199395/157707041-52be3673-5ccf-4dca-96db-a8f5ce6d81d5.png" width="100vw">
-![img1](https://user-images.githubusercontent.com/91199395/157707041-52be3673-5ccf-4dca-96db-a8f5ce6d81d5.png)
 組んでる様子
 <img src="https://user-images.githubusercontent.com/91199395/157707173-59e3dbf6-10c3-4d0b-8f6d-513e5b3be78c.gif" width="100vw">
 消えてる様子(10連鎖)

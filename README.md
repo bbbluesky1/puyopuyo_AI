@@ -1,5 +1,6 @@
 # puyopuyo_AI
 https://qiita.com/gowasu/items/76c1bbe2bc01c4fe7a75
+<br>
 30手番シミュレーションした結果
 <img src="https://user-images.githubusercontent.com/91199395/157707041-52be3673-5ccf-4dca-96db-a8f5ce6d81d5.png" width="100vw">
 組んでる様子
